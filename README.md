@@ -23,3 +23,8 @@ Here we've written some guidelines for proper use of our logos.
 ## Banners
 
 <img alt="web3community banner" src="https://i.imgur.com/xKOfGSM.png"/>
+
+## Contact
+
+Have any questions, comments, or anything else? Don't hesitate to send us a\
+mail at web3opensourcecommunity@gmail.com or in our [Discord server](https://discord.gg/TSRwqx4K2v).
