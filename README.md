@@ -1,11 +1,11 @@
-# Branding
+# 🎨 Branding
 
 Do you want to use our logos and branding for your use?\
 Here we've written some guidelines for proper use of our logos.
 
 **Thanks to [Krish Gupta](https://github.com/krishguptadev) for writing these amazing guidelines!**
 
-## Terms
+## 📜 Terms
 
 | Do's                                                         | Don'ts                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -16,15 +16,20 @@ Here we've written some guidelines for proper use of our logos.
 | :heavy_check_mark: Use the logo with “Web3Community” wordmark | :x: Do not use the logo as text.                             |
 | :heavy_check_mark: Use the original colors.                  |                                                              |
 
-## Logos
+## 🖼 Logos
 
 <img alt="web3community logo" width="50%" src="https://user-images.githubusercontent.com/73097560/131439339-14c23ffc-b431-4302-b1ca-f94d6885b9fa.png"/><img alt="web3community logo 1.0" width="50%" src="https://user-images.githubusercontent.com/73097560/131442083-839cf4b0-795e-4b80-be25-a5a1681fc661.png"/>
 
-## Banners
+## 🖌 Banners
 
 <img alt="web3community banner" src="https://i.imgur.com/xKOfGSM.png"/>
 
-## Contact
+## 📝 License
+
+All of our branding assets are licensed under the [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/) license.\
+Please follow their guidelines as well. Not following them might result in legal problems.
+
+## 📧 Contact
 
 Have any questions, comments, or anything else? Don't hesitate to send us a\
 mail at web3opensourcecommunity@gmail.com or in our [Discord server](https://discord.gg/TSRwqx4K2v).
