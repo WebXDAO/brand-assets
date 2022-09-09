@@ -9,18 +9,20 @@ Here we've written some guidelines for proper use of our logos.
 
 | Do's                                                         | Don'ts                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| :heavy_check_mark: Use the Web3Community logo to link to Web3Community | :x: Do not Use the Web3Community logo for your application’s icon |
-| :heavy_check_mark: Use the Web3Community logo in a blog post or news article about Web3Community | :x: Do not Use/Sell any Web3Community artwork without permission |
+| :heavy_check_mark: Use the WebXDAO logo to link to WebXDAO | :x: Do not Use the WebXDAO logo for your application’s icon |
+| :heavy_check_mark: Use the WebXDAO logo in a blog post or news article about WebXDAO | :x: Do not Use/Sell any WebXDAO artwork without permission |
 | :heavy_check_mark: Use the right format for your project to ensure proper resolution. | :x: Do not change the original proportions.                  |
-| :heavy_check_mark: Use the [provided logo files](https://github.com/web3community/brand-assets) at their actual size. | :x: Do not create your own versions of the [original logo files](https://github.com/web3community/brand-assets). |
-| :heavy_check_mark: Use the logo with “Web3Community” wordmark | :x: Do not use the logo as text.                             |
+| :heavy_check_mark: Use the [provided logo files](https://github.com/WebXDAO/brand-assets) at their actual size. | :x: Do not create your own versions of the [original logo files](https://github.com/WebXDAO/brand-assets). |
+| :heavy_check_mark: Use the logo with “WebXDAO” wordmark | :x: Do not use the logo as text.                             |
 | :heavy_check_mark: Use the original colors.                  |                                                              |
 
 ## 🖼 Logos
 
-<img alt="web3community logo" width="50%" src="https://user-images.githubusercontent.com/73097560/131439339-14c23ffc-b431-4302-b1ca-f94d6885b9fa.png"/><img alt="web3community logo 1.0" width="50%" src="https://user-images.githubusercontent.com/73097560/131442083-839cf4b0-795e-4b80-be25-a5a1681fc661.png"/>
+| Dark | Light |
+|:------:|:-------:|
+| <img alt="WebXDAO logo (another version)" width="25%" src="https://user-images.githubusercontent.com/51391473/189403569-095279b7-6f24-4da6-9e3e-5af2b36f5dab.png"/>| <img alt="WebXDAO logo" width="75%" src="https://user-images.githubusercontent.com/51391473/189403377-2a3ec554-4b89-498c-9f3c-cc1074deaa3c.png"/>|
 
-## 🖌 Banners
+## 🖌 Banners (outdated)
 
 <img alt="web3community banner" src="https://i.imgur.com/xKOfGSM.png"/>
 
