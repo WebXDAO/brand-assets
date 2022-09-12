@@ -3,7 +3,7 @@
 Do you want to use our logos and branding for your use?\
 Here we've written some guidelines for proper use of our logos.
 
-**Thanks to [Krish Gupta](https://github.com/krishguptadev) for writing these amazing guidelines!**
+**Thanks to [Krish Gupta](https://github.com/krshkodes) for writing these amazing guidelines!**
 
 ## 📜 Terms
 
@@ -38,4 +38,4 @@ Please follow their guidelines as well. Not following them might result in legal
 ## 📧 Contact
 
 Have any questions, comments, or anything else? Don't hesitate to send us a\
-mail at web3opensourcecommunity@gmail.com or in our [Discord server](https://discord.gg/TSRwqx4K2v).
+mail at webxdao@gmail.com or in our [Discord server](https://discord.gg/TSRwqx4K2v).
