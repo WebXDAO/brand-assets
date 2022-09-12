@@ -22,9 +22,13 @@ Here we've written some guidelines for proper use of our logos.
 |:------:|:-------:|
 | <img alt="WebXDAO logo (another version)" width="25%" src="https://user-images.githubusercontent.com/51391473/189403569-095279b7-6f24-4da6-9e3e-5af2b36f5dab.png"/>| <img alt="WebXDAO logo" width="75%" src="https://user-images.githubusercontent.com/51391473/189403377-2a3ec554-4b89-498c-9f3c-cc1074deaa3c.png"/>|
 
-## 🖌 Banners (outdated)
+## 🖌 Banners
 
-<img alt="web3community banner" src="https://i.imgur.com/xKOfGSM.png"/>
+Thanks to [Maxime Kubik](https://github.com/mkubdev) for designing this banner 🔥
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72812470/189705065-58fe76da-080b-4798-94fe-2400af2bbfa8.png" alt="WebXDAO Banner" />
+</p>
 
 ## 📝 License
 
