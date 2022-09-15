@@ -18,9 +18,9 @@ Here we've written some guidelines for proper use of our logos.
 
 ## 🖼 Logos
 
-| Dark | Light |
-|:------:|:-------:|
-| <img alt="WebXDAO logo (another version)" width="25%" src="https://user-images.githubusercontent.com/51391473/189403569-095279b7-6f24-4da6-9e3e-5af2b36f5dab.png"/>| <img alt="WebXDAO logo" width="75%" src="https://user-images.githubusercontent.com/51391473/189403377-2a3ec554-4b89-498c-9f3c-cc1074deaa3c.png"/>|
+| Dark | Light | Monochrome
+|:------:|:-------:|:-------:|
+| <img alt="WebXDAO logo (another version)" width="25%" src="https://user-images.githubusercontent.com/51391473/189403569-095279b7-6f24-4da6-9e3e-5af2b36f5dab.png"/>| <img alt="WebXDAO logo" width="75%" src="https://user-images.githubusercontent.com/51391473/189403377-2a3ec554-4b89-498c-9f3c-cc1074deaa3c.png"/>| <img alt="WebXDAO logo (monochrome version)" width="25%" src="https://user-images.githubusercontent.com/51391473/190446269-523ea4ed-e718-4f51-bd39-27f7b6ceaa1e.png"/>
 
 ## 🖌 Banners
 
