@@ -3,8 +3,6 @@
 Do you want to use our logos and branding for your use?\
 Here we've written some guidelines for proper use of our logos.
 
-**Thanks to [Krish Gupta](https://github.com/krshkodes) for writing these amazing guidelines!**
-
 ## 📜 Terms
 
 | Do's                                                         | Don'ts                                                       |
